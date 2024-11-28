@@ -1,0 +1,4 @@
+for deployment
+    npm run deploy
+for running
+    npm run dev
